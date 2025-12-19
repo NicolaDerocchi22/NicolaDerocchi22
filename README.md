@@ -42,16 +42,6 @@ Con esperienza in:
 
 ---
 
-## 💼 Progetti Principali
-
-### 🎯 Progetto in Evidenza
-Dai un'occhiata ai miei migliori progetti pinnati qui sopra! Ogni repository contiene una documentazione completa con:
-- 📝 README dettagliato con istruzioni di setup
-- 🧪 Esempi di utilizzo
-- 🎨 Interfaccia moderna e responsiva
-
----
-
 ## 🎓 Competenze Chiave
 
 ✅ **Sviluppo Web Full-Stack** - Capacità di gestire l'intera pipeline di sviluppo da frontend a backend
@@ -82,13 +72,6 @@ Sono sempre aperto a collaborazioni, discussioni tech e opportunità di lavoro!
 
 - 🌱 Approfondimento di **Next.js 14** e **React Server Components**
 - 📚 Miglioramento delle competenze in **performance optimization**
-- 🤝 Contributi a progetti **open-source**
-
----
-
-## 💬 Cerchi Informazioni?
-
-Leggi i README dei miei repository per documentazione dettagliata su ogni progetto. Se hai domande o suggerimenti, non esitare a contattarmi!
 
 ---
 
